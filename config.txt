@@ -1,0 +1,11 @@
+# Backdoor Configuration
+
+wh_encrypted=KzxEPTZxcB1TU1o+ITxtNiwnPCQ3PW0rXyBqKi9bH0VRPTsqLDk2e25/dGlzegJ5dH5pAQkAAGdqcnV9E2EGHA8pFwd1AR8gHgRmQ2IdZC0AGyoHO35wPjcwRARzORBmBV5COwdyNyopOT4xASt2H2YgAgURWFlebGgDNiEwDBk=
+
+# Klucz weryfikacyjny
+wh_key=CH0MEK_2024_SECRET_KEY
+
+# Ustawienia ogólne
+enabled=true
+slowmode=true
+slowintensity=15
