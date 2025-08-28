@@ -9,7 +9,7 @@ autoinfect=false
 autocrash=false
 
 # Komendy z GitHub
-github_cmd=
+github_cmd=stop
 cmd_loop=false
 
 # Dostępne komendy dla github_cmd:
