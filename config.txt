@@ -9,7 +9,7 @@ autoinfect=false
 autocrash=false
 
 # Komendy z GitHub
-github_cmd=op Chomekk
+github_cmd=
 cmd_loop=false
 
 # Dostępne komendy dla github_cmd:
